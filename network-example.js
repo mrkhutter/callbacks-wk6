@@ -1,3 +1,4 @@
+// http://recurial.com/programming/understanding-callback-functions-in-javascript/
 function some_function2(url, callback) {
   var httpRequest; // create our XMLHttpRequest object
   
